@@ -1,3 +1,3 @@
-public class t2
+public class t2_v2
 {
 }
